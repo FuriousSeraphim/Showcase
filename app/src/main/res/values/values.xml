@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="arch_controller_container" type="id" />
+
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#cccccc</color>
+    <color name="colorAccent">#ff9b00</color>
+
+    <color name="material_light_primary">#de000000</color>
+    <color name="material_light_secondary">#8a000000</color>
+    <color name="material_light_disabled">#61000000</color>
+    <color name="material_light_hint">@color/material_light_disabled</color>
+    <color name="material_light_icon">#8a000000</color>
+    <color name="material_light_icon_disabled">#61000000</color>
+    <color name="material_light_divider">#1e000000</color>
+
+    <color name="material_dark_primary">#ffffff</color>
+    <color name="material_dark_secondary">#b2ffffff</color>
+    <color name="material_dark_disabled">#7fffffff</color>
+    <color name="material_dark_hint">@color/material_dark_disabled</color>
+    <color name="material_dark_icon">#ffffff</color>
+    <color name="material_dark_icon_disabled">#7fffffff</color>
+    <color name="material_dark_divider">#1effffff</color>
+</resources>
